@@ -31,16 +31,27 @@ Addendum
 Definitions:
 
 * Branch: An individual workspace with a collection of source-controlled files within a repository
+ 
 * Clone: To download and synchonize the contents of a repository to a local branch
+ 
 * Commit: To add pending changes to a branch
+ 
 * Fetch: To switch or copy the contents of another branch to your hard disk
+ 
 * GIT: A version of source control popular since 2005, used within many software development enterprises
+ 
 * Github: A git-based website which easily maintains repositories of code which people can easily view and access
+ 
 * Merge: The act of merging two branches into one, or to copy the contents of one branch to another
+ 
 * Merge Conflict: When the files of two branches do not match each other. This can typically be due to a series of files not coinciding correctly
+ 
 * Push: To update a branch on the remote repository
+ 
 * Pull: To update a branch on the local repository
+ 
 * Remote: A repository located on a computer network (github)
+  
 * Repository: A collection of version-controlled source files for a project
 
 
